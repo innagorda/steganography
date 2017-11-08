@@ -1,3 +1,6 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CannyStill1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   stego.cpp
+c:\users\gorda\source\repos\steganography\stego.cpp(27): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\gorda\source\repos\steganography\stego.cpp(28): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\gorda\source\repos\steganography\stego.cpp(67): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
   CannyStill1.vcxproj -> C:\Users\gorda\source\repos\steganography\x64\Debug\stego.exe
