@@ -1,0 +1,6 @@
+
+*.db-wal
+*.db
+.vs/stego/v15/Browse.VC.opendb
+.vs/stego/v15/ipch/AutoPCH/816e6b872ce7019a/STEGO.ipch
+.vs/stego/v15/Solution.VC.db-shm

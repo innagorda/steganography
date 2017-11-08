@@ -1,2 +1,3 @@
-﻿  CannyStill1.cpp
-  CannyStill1.vcxproj -> c:\users\gorda\source\repos\CannyStill1\x64\Debug\CannyStill1.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CannyStill1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stego.cpp
+  CannyStill1.vcxproj -> C:\Users\gorda\source\repos\steganography\x64\Debug\stego.exe
